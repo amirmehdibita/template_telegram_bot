@@ -1,0 +1,18 @@
+{
+    "message_id": 64,
+    "from": {
+        "id": 471878044,
+        "is_bot": false,
+        "first_name": "Amir Mehdi",
+        "username": "AMBt2004",
+        "language_code": "en"
+    },
+    "chat": {
+        "id": 471878044,
+        "first_name": "Amir Mehdi",
+        "username": "AMBt2004",
+        "type": "private"
+    },
+    "date": 1728591871,
+    "text": "\u2699\ufe0f Settings"
+}
